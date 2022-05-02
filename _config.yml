@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Sajan Kedia </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/adityanarayanan-m-47225413a/">LinkedIn</a> |
+  <a href="https://github.com/adiraptor">GitHub</a>
+  
+  <br>   
+  I am a full stack developer with a total of 4 years of experience. 
+  2 years of experience building web and windows applications in .NET MVC and WPF frameworks respectively, 2 years of experience building and deploying nltk, tensorflow models for text classification, email classification and document parsing. Have implemented and deployed Linear regression model integrated with RPA to solve an email classification problem. 
+  Have 6 months of experience working on a conversational assistant using RASA framework, DIET Classifier and spacy word embeddings.
+  Am a highly motivated learner, always hungry for knowledge!!
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
